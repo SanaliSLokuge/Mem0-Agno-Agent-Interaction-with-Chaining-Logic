@@ -5,6 +5,8 @@
 This project showcases a minimal but powerful example of building AI agents that can **store**, **recall**, and **reason** using long-term memory and language models.
 
 Notebook Link- https://colab.research.google.com/drive/14Ne2Bqlo4b_2-qmmHwFeqLw211qpwC4-?usp=sharing
+
+ Documentation- https://docs.google.com/document/d/1e27TTLQlV02jW8hPHslZvtftYegStSoyAnXsmTmWGSU/edit?usp=sharing
  
 It combines three major components:
 - **Agno Agent Framework** – to define agent behaviors like storing or retrieving.
